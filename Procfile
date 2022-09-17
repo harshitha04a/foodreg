@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run --server.port $PORT f00d_recog_inception.py
+web: sh setup.sh && streamlit run f00d_recog_inception.py
