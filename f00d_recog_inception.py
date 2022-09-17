@@ -16,17 +16,7 @@ from tensorflow.keras.preprocessing import image
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
         
-ss.markdown(
-     """
-     <style>
-     .ssApp {
-         background: url("f1.jpg");
-         background-size: cover;
-     }
-     </style>
-     """,
-     unsafe_allow_html=True
- )
+
 
 
 def dic_maker(arr):
